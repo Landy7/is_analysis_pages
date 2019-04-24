@@ -465,7 +465,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:91px;
+  width:111px;
   height:26px;
   background:inherit;
   background-color:rgba(255, 204, 204, 1);
@@ -483,9 +483,9 @@
 }
 #u25 {
   position:absolute;
-  left:311px;
+  left:304px;
   top:195px;
-  width:91px;
+  width:111px;
   height:26px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -495,7 +495,7 @@
   position:absolute;
   left:2px;
   top:4px;
-  width:87px;
+  width:107px;
   word-wrap:break-word;
 }
 #u27_img {
@@ -803,7 +803,7 @@
   position:absolute;
   left:182px;
   top:266px;
-  width:829px;
+  width:832px;
   height:365px;
   overflow:hidden;
   visibility:hidden;
@@ -812,7 +812,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:832px;
   height:365px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -831,7 +831,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:832px;
   height:366px;
   background:inherit;
   background-color:rgba(153, 204, 204, 1);
@@ -849,14 +849,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:832px;
   height:366px;
 }
 #u47 {
   position:absolute;
   left:2px;
   top:175px;
-  width:825px;
+  width:828px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -2650,7 +2650,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:832px;
   height:365px;
   visibility:hidden;
   -ms-overflow-x:hidden;
@@ -2670,7 +2670,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:831px;
   height:365px;
   background:inherit;
   background-color:rgba(153, 204, 204, 1);
@@ -2687,21 +2687,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:831px;
   height:365px;
 }
 #u198 {
   position:absolute;
   left:2px;
   top:175px;
-  width:825px;
+  width:827px;
   word-wrap:break-word;
 }
 #u45_state2 {
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:832px;
   height:365px;
   visibility:hidden;
   -ms-overflow-x:hidden;
@@ -2721,7 +2721,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:831px;
   height:365px;
   background:inherit;
   background-color:rgba(153, 204, 204, 1);
@@ -2738,14 +2738,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:829px;
+  width:831px;
   height:365px;
 }
 #u200 {
   position:absolute;
   left:2px;
   top:175px;
-  width:825px;
+  width:827px;
   word-wrap:break-word;
 }
 #u201_div {
